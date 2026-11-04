@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://eliacovi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-eliacovi.vercel.app-black?style=for-the-badge&logo=vercel" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/[tuo-profilo]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/elia-covi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -41,8 +41,8 @@ Studio Ingegneria Informatica e mi interessa il punto in cui il software incontr
 ## 📫 Contatti
 
 - 🌐 Portfolio: [eliacovi.vercel.app](https://eliacovi.vercel.app)
-- 💼 LinkedIn: [tuo-profilo](https://www.linkedin.com/in/[tuo-profilo])
-- ✉️ Email: [la-tua-email]
+- 💼 LinkedIn: [tuo-profilo](https://www.linkedin.com/in/elia-covi)
+- ✉️ Email: eliacovi2004@gmail.com
 
 ---
 
